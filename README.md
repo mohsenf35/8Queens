@@ -5,4 +5,4 @@ http://shdu.ac.ir/
 <br>
 ![alt text](https://raw.githubusercontent.com/mohsenf35/8Queens/master/Picture.png)
 <br>
-![alt text](https://raw.githubusercontent.com/mohsenf35/8Queens/master/Result.png)
+![alt text](https://github.com/mohsenf35/8Queens/blob/master/Result.PNG)
