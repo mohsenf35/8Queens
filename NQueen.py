@@ -147,7 +147,7 @@ def Mutation(Population, NewPopulation):
             break
     
     return NewPopulation 
-    
+
 Queens = 8
 NumberOfSolutions = 100
 Solutions = InitFirstPopulation(Queens, NumberOfSolutions)
